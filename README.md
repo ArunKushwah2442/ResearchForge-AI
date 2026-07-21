@@ -82,8 +82,8 @@ Reviews the generated report for accuracy, completeness, source reliability, and
 
 ## 🖥️ Application Preview
 
-<p align="center">
-  <img src="./assets/researchforge-ui.png" width="800"/>
+  <p align="center">
+  <img src="researchforge-ui.png" width="800"/>
 </p>
 
 ---
